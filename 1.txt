@@ -1,0 +1,2 @@
+intstall git 
+install maven
